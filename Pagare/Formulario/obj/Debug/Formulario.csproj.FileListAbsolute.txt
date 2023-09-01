@@ -1,0 +1,14 @@
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\bin\Debug\PAGARE.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\bin\Debug\PAGARE.pdb
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\bin\Debug\PAGARE.exe.config
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Formulario\obj\Debug\WindowsFormsApp1.pdb

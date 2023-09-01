@@ -1,0 +1,10 @@
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\obj\Debug\PAGARE.csprojAssemblyReference.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\obj\Debug\PAGARE.Hoja.resources
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\obj\Debug\PAGARE.Properties.Resources.resources
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\obj\Debug\PAGARE.csproj.GenerateResource.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\obj\Debug\PAGARE.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\bin\Debug\PAGARE.exe.config
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\bin\Debug\PAGARE.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\bin\Debug\PAGARE.pdb
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\obj\Debug\PAGARE.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Cosas de proga\0 Lenguajes y madres\C#\Privados\Pagare\Papel\PAGARE\obj\Debug\PAGARE.pdb

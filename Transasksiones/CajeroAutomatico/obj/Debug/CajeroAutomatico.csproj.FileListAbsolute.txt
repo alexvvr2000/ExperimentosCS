@@ -1,0 +1,21 @@
+c:\users\saidr\documents\visual studio 2012\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojAssemblyReference.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Lenguajes y madres\C#\Privados\EXAMEN 3E\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.Pantalla_principal.resources
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\obj\Debug\CajeroAutomatico.Pantalla_principal.resources
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\Alejandro\Desktop\New folder\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb

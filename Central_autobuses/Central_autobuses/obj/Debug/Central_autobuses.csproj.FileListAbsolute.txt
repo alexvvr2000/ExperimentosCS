@@ -1,0 +1,24 @@
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\bin\Debug\Central_autobuses.exe.config
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\bin\Debug\Central_autobuses.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\bin\Debug\Central_autobuses.pdb
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.csprojAssemblyReference.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.Properties.Resources.resources
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.csproj.GenerateResource.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.exe
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.pdb
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.PaginaPrincipal.resources
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.ComprarBoleto.resources
+C:\Users\Alejandro\OneDrive - uanl.edu.mx\- Programming stuff\- Lenguajes y madres\C#\Privados\Central_autobuses\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.Pasajeros.resources
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\bin\Debug\Central_autobuses.exe.config
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\bin\Debug\Central_autobuses.exe
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\bin\Debug\Central_autobuses.pdb
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.ComprarBoleto.resources
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.PaginaPrincipal.resources
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.Pasajeros.resources
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.exe
+C:\Users\Alejandro\Desktop\Central_autobuses\Central_autobuses\obj\Debug\Central_autobuses.pdb
